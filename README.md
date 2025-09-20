@@ -1,0 +1,2 @@
+# Graph-Generation-using-Multi-Agent-LLM-Models-to-Derive-Space-Insights-SmartViz
+This repository contains the implementation of a multi-agent chatbot system developed as part of my MSc Dissertation project at Aston University. The system enables natural language queries to be translated into SQL, generate appropriate graphs/visualizations, and produce contextual insights using Large Language Models (LLMs).
