@@ -102,7 +102,7 @@ streamlit run app.py
 ```
 *****Screenshots*****
 
-(Add images of chatbot interface, sample graphs, and system architecture here.)
+
 
 *****Dissertation Context*****
 
